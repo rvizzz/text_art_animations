@@ -8,6 +8,16 @@ Play text art animations in the terminal
 
     Example: python3 text_art.py fireworks 3
 
-Text art animation example on my Twitter:
+# Current animations:
 
-https://twitter.com/r_vizzz/status/1336500685614034948
+
+Fireworks
+
+Rick ASCII
+
+Fireplace (Source video from https://www.youtube.com/watch?v=Hy3MV7oUuww)
+
+
+# Examples:
+
+Fireworks: https://twitter.com/r_vizzz/status/1336500685614034948
